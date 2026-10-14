@@ -8,4 +8,5 @@ add_executable(Practice_Incapsulation_Inheritance_task1_variant5 main.cpp
         B2.h
         D1.h
         D2.h
-        D3.h)
+        D3.h
+        D4.h)
