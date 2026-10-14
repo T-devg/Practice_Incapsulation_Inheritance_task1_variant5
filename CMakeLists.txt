@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Practice_Incapsulation_Inheritance_task1_variant5 main.cpp
         B1.h
-        B2.h)
+        B2.h
+        D1.h)
