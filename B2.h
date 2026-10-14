@@ -13,7 +13,7 @@ public:
         this->b2 = b2;
     }
     void show_B2() {
-        cout << "B1 = " << b2 << endl;
+        cout << "B2 = " << b2 << endl;
     }
     int getB2() {
         return b2;
