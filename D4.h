@@ -19,6 +19,9 @@ public:
         cout << "D4 = " << d4 << endl;
         D3::show_D3();
     }
+    int getD4() {
+        return d4;
+    }
 };
 
 #endif //PRACTICE_INCAPSULATION_INHERITANCE_TASK1_VARIANT5_D4_H

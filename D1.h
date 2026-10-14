@@ -21,6 +21,9 @@ public:
         B1::show_B1();
         B2::show_B2();
     }
+    int getD1() {
+        return d1;
+    }
 };
 
 

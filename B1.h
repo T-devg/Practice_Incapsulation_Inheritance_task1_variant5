@@ -15,6 +15,9 @@ public:
     void show_B1() {
         cout << "B1 = " << b1 << endl;
     }
+    int getB1() {
+        return b1;
+    }
 };
 
 

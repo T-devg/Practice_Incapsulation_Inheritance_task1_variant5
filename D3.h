@@ -20,6 +20,9 @@ public:
         D2::show_D2();
         D1::show_D1();
     }
+    int getD3() {
+        return d3;
+    }
 };
 
 

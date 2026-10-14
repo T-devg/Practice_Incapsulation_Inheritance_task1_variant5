@@ -15,6 +15,9 @@ public:
     void show_B2() {
         cout << "B1 = " << b2 << endl;
     }
+    int getB2() {
+        return b2;
+    }
 };
 
 #endif //PRACTICE_INCAPSULATION_INHERITANCE_TASK1_VARIANT5_B2_H

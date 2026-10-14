@@ -16,6 +16,9 @@ public:
     void show_D2() {
         cout << "D2 = " << d2 << endl;
     }
+    int getD2() {
+        return d2;
+    }
 };
 
 
